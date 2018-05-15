@@ -10,11 +10,11 @@ public class Asis {
     public static void main(String[] args) {
     
       Fibonacci(10);
-        System.out.println("");
+      System.out.println("");
       FizzBuzz(30) ;    
-       System.out.println("");
-        System.out.println(ReverseString("tunc"));
-	System.out.println("deneme");		
+      System.out.println("");
+      System.out.println(ReverseString("tunc"));
+      System.out.println("deneme");		
     }
     
     
