@@ -14,7 +14,7 @@ public class Asis {
       FizzBuzz(30) ;    
        System.out.println("");
         System.out.println(ReverseString("tunc"));
-        
+	System.out.println("deneme");		
     }
     
     
